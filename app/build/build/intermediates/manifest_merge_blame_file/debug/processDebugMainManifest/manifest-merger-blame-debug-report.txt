@@ -1,0 +1,61 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.mindmatrix.nammapustaka"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="23"
+9        android:targetSdkVersion="35" />
+10
+11    <uses-permission android:name="android.permission.CAMERA" />
+11-->C:\Users\HP\Documents\Codex\2026-05-12\build-a-complete-project-as-an\app\src\main\AndroidManifest.xml:4:5-65
+11-->C:\Users\HP\Documents\Codex\2026-05-12\build-a-complete-project-as-an\app\src\main\AndroidManifest.xml:4:22-62
+12    <uses-permission android:name="android.permission.INTERNET" />
+12-->C:\Users\HP\Documents\Codex\2026-05-12\build-a-complete-project-as-an\app\src\main\AndroidManifest.xml:5:5-67
+12-->C:\Users\HP\Documents\Codex\2026-05-12\build-a-complete-project-as-an\app\src\main\AndroidManifest.xml:5:22-64
+13
+14    <uses-feature
+14-->C:\Users\HP\Documents\Codex\2026-05-12\build-a-complete-project-as-an\app\src\main\AndroidManifest.xml:7:5-9:36
+15        android:name="android.hardware.camera"
+15-->C:\Users\HP\Documents\Codex\2026-05-12\build-a-complete-project-as-an\app\src\main\AndroidManifest.xml:8:9-47
+16        android:required="false" />
+16-->C:\Users\HP\Documents\Codex\2026-05-12\build-a-complete-project-as-an\app\src\main\AndroidManifest.xml:9:9-33
+17
+18    <application
+18-->C:\Users\HP\Documents\Codex\2026-05-12\build-a-complete-project-as-an\app\src\main\AndroidManifest.xml:11:5-27:19
+19        android:allowBackup="true"
+19-->C:\Users\HP\Documents\Codex\2026-05-12\build-a-complete-project-as-an\app\src\main\AndroidManifest.xml:12:9-35
+20        android:debuggable="true"
+21        android:extractNativeLibs="false"
+22        android:icon="@drawable/ic_launcher_foreground"
+22-->C:\Users\HP\Documents\Codex\2026-05-12\build-a-complete-project-as-an\app\src\main\AndroidManifest.xml:13:9-56
+23        android:label="@string/app_name"
+23-->C:\Users\HP\Documents\Codex\2026-05-12\build-a-complete-project-as-an\app\src\main\AndroidManifest.xml:14:9-41
+24        android:roundIcon="@drawable/ic_launcher_foreground"
+24-->C:\Users\HP\Documents\Codex\2026-05-12\build-a-complete-project-as-an\app\src\main\AndroidManifest.xml:15:9-61
+25        android:supportsRtl="true"
+25-->C:\Users\HP\Documents\Codex\2026-05-12\build-a-complete-project-as-an\app\src\main\AndroidManifest.xml:16:9-35
+26        android:testOnly="true"
+27        android:theme="@style/AppTheme" >
+27-->C:\Users\HP\Documents\Codex\2026-05-12\build-a-complete-project-as-an\app\src\main\AndroidManifest.xml:17:9-40
+28        <activity
+28-->C:\Users\HP\Documents\Codex\2026-05-12\build-a-complete-project-as-an\app\src\main\AndroidManifest.xml:18:9-26:20
+29            android:name="com.mindmatrix.nammapustaka.MainActivity"
+29-->C:\Users\HP\Documents\Codex\2026-05-12\build-a-complete-project-as-an\app\src\main\AndroidManifest.xml:19:13-41
+30            android:exported="true" >
+30-->C:\Users\HP\Documents\Codex\2026-05-12\build-a-complete-project-as-an\app\src\main\AndroidManifest.xml:20:13-36
+31            <intent-filter>
+31-->C:\Users\HP\Documents\Codex\2026-05-12\build-a-complete-project-as-an\app\src\main\AndroidManifest.xml:21:13-25:29
+32                <action android:name="android.intent.action.MAIN" />
+32-->C:\Users\HP\Documents\Codex\2026-05-12\build-a-complete-project-as-an\app\src\main\AndroidManifest.xml:22:17-69
+32-->C:\Users\HP\Documents\Codex\2026-05-12\build-a-complete-project-as-an\app\src\main\AndroidManifest.xml:22:25-66
+33
+34                <category android:name="android.intent.category.LAUNCHER" />
+34-->C:\Users\HP\Documents\Codex\2026-05-12\build-a-complete-project-as-an\app\src\main\AndroidManifest.xml:24:17-77
+34-->C:\Users\HP\Documents\Codex\2026-05-12\build-a-complete-project-as-an\app\src\main\AndroidManifest.xml:24:27-74
+35            </intent-filter>
+36        </activity>
+37    </application>
+38
+39</manifest>

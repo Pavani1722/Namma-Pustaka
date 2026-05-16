@@ -1,0 +1,16 @@
+R_DEF: Internal format may change without notice
+local
+color accent
+color brand
+color brand_dark
+color paper
+drawable cover_freedom_story
+drawable cover_fun_with_science
+drawable cover_malgudi_days
+drawable cover_solar_system
+drawable cover_tenali_rama
+drawable cover_wings_of_fire
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+string app_name
+style AppTheme

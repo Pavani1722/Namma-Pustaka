@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="accent">#2F6F69</color>
+    <color name="brand">#6C2F2F</color>
+    <color name="brand_dark">#421D1D</color>
+    <color name="paper">#FFF9ED</color>
+    <string name="app_name">Namma-Pustaka</string>
+    <style name="AppTheme" parent="android:style/Theme.Material.Light.NoActionBar">
+        <item name="android:fontFamily">sans</item>
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="android:statusBarColor">@color/paper</item>
+        <item name="android:navigationBarColor">@color/paper</item>
+        <item name="android:colorAccent">@color/accent</item>
+    </style>
+</resources>

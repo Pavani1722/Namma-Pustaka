@@ -1,0 +1,8 @@
+com.mindmatrix.nammapustaka.app-pngs-0 C:\Users\HP\Documents\Codex\2026-05-12\build-a-complete-project-as-an\app\build\generated\res\pngs\debug
+com.mindmatrix.nammapustaka.app-resValues-1 C:\Users\HP\Documents\Codex\2026-05-12\build-a-complete-project-as-an\app\build\generated\res\resValues\debug
+com.mindmatrix.nammapustaka.app-updated_navigation_xml-2 C:\Users\HP\Documents\Codex\2026-05-12\build-a-complete-project-as-an\app\build\generated\updated_navigation_xml\debug
+com.mindmatrix.nammapustaka.app-packageDebugResources-3 C:\Users\HP\Documents\Codex\2026-05-12\build-a-complete-project-as-an\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.mindmatrix.nammapustaka.app-packageDebugResources-4 C:\Users\HP\Documents\Codex\2026-05-12\build-a-complete-project-as-an\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.mindmatrix.nammapustaka.app-debug-5 C:\Users\HP\Documents\Codex\2026-05-12\build-a-complete-project-as-an\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.mindmatrix.nammapustaka.app-debug-6 C:\Users\HP\Documents\Codex\2026-05-12\build-a-complete-project-as-an\app\src\debug\res
+com.mindmatrix.nammapustaka.app-main-7 C:\Users\HP\Documents\Codex\2026-05-12\build-a-complete-project-as-an\app\src\main\res

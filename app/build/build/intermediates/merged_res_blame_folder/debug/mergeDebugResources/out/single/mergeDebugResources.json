@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "com.mindmatrix.nammapustaka.app-debug-4:/drawable_cover_wings_of_fire.xml.flat",
+        "source": "com.mindmatrix.nammapustaka.app-main-6:/drawable/cover_wings_of_fire.xml"
+    },
+    {
+        "merged": "com.mindmatrix.nammapustaka.app-debug-4:/drawable_cover_malgudi_days.xml.flat",
+        "source": "com.mindmatrix.nammapustaka.app-main-6:/drawable/cover_malgudi_days.xml"
+    },
+    {
+        "merged": "com.mindmatrix.nammapustaka.app-debug-4:/drawable_cover_fun_with_science.xml.flat",
+        "source": "com.mindmatrix.nammapustaka.app-main-6:/drawable/cover_fun_with_science.xml"
+    },
+    {
+        "merged": "com.mindmatrix.nammapustaka.app-debug-4:/drawable_cover_tenali_rama.xml.flat",
+        "source": "com.mindmatrix.nammapustaka.app-main-6:/drawable/cover_tenali_rama.xml"
+    },
+    {
+        "merged": "com.mindmatrix.nammapustaka.app-debug-4:/drawable_cover_solar_system.xml.flat",
+        "source": "com.mindmatrix.nammapustaka.app-main-6:/drawable/cover_solar_system.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\9.0.0\\com.mindmatrix.nammapustaka.app-debug-4:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\9.0.0\\com.mindmatrix.nammapustaka.app-main-6:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\9.0.0\\com.mindmatrix.nammapustaka.app-debug-4:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\9.0.0\\com.mindmatrix.nammapustaka.app-main-6:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.mindmatrix.nammapustaka.app-debug-4:/drawable_cover_freedom_story.xml.flat",
+        "source": "com.mindmatrix.nammapustaka.app-main-6:/drawable/cover_freedom_story.xml"
+    }
+]

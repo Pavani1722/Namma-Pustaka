@@ -1,0 +1,62 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.mindmatrix.nammapustaka.app-mergeDebugResources-2:/values/values.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\HP\\Documents\\Codex\\2026-05-12\\build-a-complete-project-as-an\\app\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "1",
+                        "startColumns": "4",
+                        "startOffsets": "16",
+                        "endLines": "7",
+                        "endColumns": "12",
+                        "endOffsets": "416"
+                    },
+                    "to": {
+                        "startLines": "7",
+                        "startColumns": "4",
+                        "startOffsets": "272",
+                        "endLines": "13",
+                        "endColumns": "12",
+                        "endOffsets": "672"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\HP\\Documents\\Codex\\2026-05-12\\build-a-complete-project-as-an\\app\\src\\main\\res\\values\\colors.xml",
+                    "from": {
+                        "startLines": "3,1,2,4",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "101,16,56,142",
+                        "endColumns": "40,39,44,39",
+                        "endOffsets": "137,51,96,177"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,96,136,181",
+                        "endColumns": "40,39,44,39",
+                        "endOffsets": "91,131,176,216"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\HP\\Documents\\Codex\\2026-05-12\\build-a-complete-project-as-an\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "1",
+                        "startColumns": "4",
+                        "startOffsets": "16",
+                        "endColumns": "50",
+                        "endOffsets": "62"
+                    },
+                    "to": {
+                        "startLines": "6",
+                        "startColumns": "4",
+                        "startOffsets": "221",
+                        "endColumns": "50",
+                        "endOffsets": "267"
+                    }
+                }
+            ]
+        }
+    ]
+}

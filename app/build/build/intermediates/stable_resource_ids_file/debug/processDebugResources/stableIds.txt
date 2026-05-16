@@ -1,0 +1,14 @@
+com.mindmatrix.nammapustaka:style/AppTheme = 0x7f040000
+com.mindmatrix.nammapustaka:string/app_name = 0x7f030000
+com.mindmatrix.nammapustaka:drawable/ic_launcher_foreground = 0x7f020007
+com.mindmatrix.nammapustaka:drawable/cover_wings_of_fire = 0x7f020005
+com.mindmatrix.nammapustaka:drawable/cover_solar_system = 0x7f020003
+com.mindmatrix.nammapustaka:drawable/cover_tenali_rama = 0x7f020004
+com.mindmatrix.nammapustaka:drawable/ic_launcher_background = 0x7f020006
+com.mindmatrix.nammapustaka:drawable/cover_malgudi_days = 0x7f020002
+com.mindmatrix.nammapustaka:drawable/cover_fun_with_science = 0x7f020001
+com.mindmatrix.nammapustaka:drawable/cover_freedom_story = 0x7f020000
+com.mindmatrix.nammapustaka:color/paper = 0x7f010003
+com.mindmatrix.nammapustaka:color/brand_dark = 0x7f010002
+com.mindmatrix.nammapustaka:color/brand = 0x7f010001
+com.mindmatrix.nammapustaka:color/accent = 0x7f010000
