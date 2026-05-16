@@ -1,0 +1,6 @@
+<resources>
+    <color name="brand">#6C2F2F</color>
+    <color name="brand_dark">#421D1D</color>
+    <color name="accent">#2F6F69</color>
+    <color name="paper">#FFF9ED</color>
+</resources>
